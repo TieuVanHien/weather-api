@@ -1,0 +1,52 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": 18.3,
+            "aqi": 30,
+            "city_name": "Calgary",
+            "clouds": 59,
+            "country_code": "CA",
+            "datetime": "2023-06-06:17",
+            "dewpt": 1.9,
+            "dhi": 108,
+            "dni": 876.79,
+            "elev_angle": 48.82,
+            "ghi": 761.34,
+            "gust": 2.57,
+            "h_angle": -22.5,
+            "lat": 51.05011,
+            "lon": -114.08529,
+            "ob_time": "2023-06-06 17:39",
+            "pod": "d",
+            "precip": 0,
+            "pres": 895.5,
+            "rh": 34,
+            "slp": 1012.2429,
+            "snow": 0,
+            "solar_rad": 660.1,
+            "sources": [
+                "analysis",
+                "F2156"
+            ],
+            "state_code": "01",
+            "station": "F2156",
+            "sunrise": "11:23",
+            "sunset": "03:47",
+            "temp": 18.3,
+            "timezone": "America/Edmonton",
+            "ts": 1686073160,
+            "uv": 3.759599,
+            "vis": 16,
+            "weather": {
+                "description": "Scattered clouds",
+                "code": 802,
+                "icon": "c02d"
+            },
+            "wind_cdir": "SSE",
+            "wind_cdir_full": "south-southeast",
+            "wind_dir": 157,
+            "wind_spd": 2.57
+        }
+    ]
+}
